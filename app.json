@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Crisis Mode",
+    "slug": "crisis-mode-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "android": {
+      "package": "com.bhavyanigam.crisismodeapp"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
